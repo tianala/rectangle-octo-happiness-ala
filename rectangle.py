@@ -24,7 +24,7 @@ Return
 
 def calculate_perimeter(length, width):
     return 2 * (length + width)
-
+ 
 
 def main():
     length = float(input("Enter the length of the rectangle: "))
